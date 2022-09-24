@@ -1,0 +1,11 @@
+Fill in the details (should be same as those while registering for CNI Hackathon):
+
+Team Name: cybris
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name:  Lithikhaa K
+Email ID: lithiprithi26@gmail.com
+
+Team Member 2:
+Name: Lokeshwaran K
+Email ID: lokesh95664@gmail.com
